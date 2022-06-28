@@ -17,7 +17,7 @@ pipeline {
         DOCKERHUB_NAMESPACE = 'junjunyang99'
         GITHUB_ACCOUNT = 'yang89jun'
         APP_NAME = 'docker-hub'
-        SONAR_CREDENITAL_ID = 'sonar-token'
+        SONAR_CREDENTIAL_ID = 'sonar-token'
     }
 
     stages {
